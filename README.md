@@ -2,6 +2,7 @@
 
 *This is a first attempt at implementing a variety of technologies, namely:*
 
+- Flask
 - Django
 - Python
 - Docker and Compose
